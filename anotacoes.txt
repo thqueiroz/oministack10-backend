@@ -1,0 +1,13 @@
+// get = pegar insformacoes
+// post = criar informacao
+// put = editar alguma informacao
+// delete = deletar informacao
+
+//Tipos de parametros:
+// Query Params: usados quase sempre nos metodos get. usados para filtros, ordenacao, paginacao etc (req.query)
+// route params: basicamente nos metodos put e delete. identificar algum recurso para alteracao ou exclusao(req.params)
+// body: basicamente usados no post e put. Dados para criacao ou alteracao de um registro. (req.body)
+
+mongoDB (NaoRelacional)
+
+
